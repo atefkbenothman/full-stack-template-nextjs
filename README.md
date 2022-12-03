@@ -1,3 +1,3 @@
 # full stack template
 
-a full stack web application template, containerized using docker
+a full stack web application template (next.js, fastapi), containerized using docker
